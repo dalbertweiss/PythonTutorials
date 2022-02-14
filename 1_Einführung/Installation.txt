@@ -1,0 +1,6 @@
+pypi
+
+
+
+Pytorch Toturial: https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/
+Python Toturial: http://cs231n.github.io/python-numpy-tutorial/
